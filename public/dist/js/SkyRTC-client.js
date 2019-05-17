@@ -10,12 +10,12 @@ var SkyRTC = function () {
                 "url": "stun:stun.l.google.com:19302"
             },
             {
-                "url": "stun:47.254.34.146:3478"
+                "url": "stun:45.117.102.41:3478"
             },
             {
-                "url": "turn:47.254.34.146:3478",
-                "username": "dds",
-                "credential": "123456"
+                "url": "turn:45.117.102.41:3478",
+                "username": "serileef",
+                "credential": "qwert123"
             }
         ]
     };
